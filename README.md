@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   Redstone Chicken's Download Archives
 </h1>
 <h4 align="center">Welcome to my github repo where I'm starting to archive all my past and current addons and texture packs!</h4>
